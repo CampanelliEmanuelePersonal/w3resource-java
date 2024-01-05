@@ -1,3 +1,5 @@
+package backend.generic.methods;
+
 import java.util.List;
 
 public class Es1 {
