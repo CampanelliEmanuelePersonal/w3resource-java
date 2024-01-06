@@ -1,4 +1,4 @@
-package backend.generic.methods;
+package w3resource.backend.generics.methods;
 
 import java.util.List;
 
